@@ -29,7 +29,7 @@
     font-size: 20px;
     text-decoration: none;
 }
-.header-area {
+.header-img-area {
     background-image: url("./img/images/background.png"),linear-gradient(45deg, #090909,#2e2e2e);
     display: flex;
     justify-content: space-around;
